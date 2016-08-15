@@ -12,6 +12,3 @@ solve more algorithms that I don't have the direct answer to. This will allow me
 feeling for how figuring out how such problems work. I also hope to use this to learn
 more about topics that I find interesting such as some discrete mathematics problems,
 probability theory, machine learning, and search. 
-
-
-
